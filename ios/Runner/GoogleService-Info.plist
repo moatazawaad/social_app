@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>625327045140-6n3fskat3lvkdk13kcje9n8bcev04p6t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.625327045140-6n3fskat3lvkdk13kcje9n8bcev04p6t</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>625327045140-69sg4vjraot8ntr6nu1iqvin51vnbjak.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBt9Nxv4QNy0Fi6sP5UdSd5zdZBNgrKne4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>625327045140</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.udemySocialApp</string>
+	<key>PROJECT_ID</key>
+	<string>glass-sight-357314</string>
+	<key>STORAGE_BUCKET</key>
+	<string>glass-sight-357314.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:625327045140:ios:a1318c34bca4a9142a4501</string>
+</dict>
+</plist>
